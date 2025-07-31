@@ -1,0 +1,185 @@
+a {
+    color: black;
+}
+
+body {
+    background-color: rgb(233, 233, 233);
+}
+
+.title {
+    background-color: grey;
+    text-align: center;
+    
+}
+
+.button_main {
+    transition: width 0.1s, height 0.1s;
+    position: relative;
+    margin-right: 1400px;
+}
+
+.button_main:hover {
+    width: 70px;
+    height: 70px;
+}
+
+.flex-container1 {
+    display: flex;
+    flex-direction: row;
+    font: 1em sans-serif;
+    
+}
+
+.links {
+    position: absolute;
+
+}
+
+.shirts {
+    margin-left: 100px;
+}
+.pants {
+    margin-left: 200px;
+}
+.shoes {
+    margin-left: 300px;
+}
+.socks {
+    margin-left: 400px;
+}
+.hats {
+    margin-left: 500px;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 1200px;
+}
+
+.flex-container3 {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 1200px;
+    
+}
+
+.home-socks {
+    background-color: grey;
+    width: 1000px;
+    margin-left: 569px;
+}
+
+.home-hat {
+    position: absolute;
+    background-color: grey;
+    width: 569px;
+    margin-right: 1200px;
+
+
+
+}
+.home-shoes {
+    position: absolute;
+    background-color: grey;
+    width: 750px;
+    margin-right: 1200px;
+}
+
+.home-shirt {
+    background-color: grey;
+    width: 750px;
+    margin-left: 750px;
+}
+
+.a1 {
+    width: 500px;
+}
+.a2 {
+    margin-left: 500px;
+}
+
+.a3 {
+    width: 500px;
+}
+.a4 {
+    margin-left: 500px;
+    width: 1000px;
+}
+
+.b1 {
+    width: 310px;
+}
+.b2 {
+    margin-left: 310px;
+    width: 1500px;
+}
+
+.b3 {
+    width: 500px;
+}
+.b4 {
+    margin-left: 500px;
+    width: 1000px;
+}
+
+.c1 {
+    width: 750px;
+}
+.c2 {
+    margin-left: 750px;
+}
+
+.c3 {
+    width: 500px;
+}
+.c4 {
+    margin-left: 500px;
+    width: 1000px;
+}
+
+.d1 {
+    width: 500px;
+}
+.d2 {
+    margin-left: 500px;
+}
+
+.d3 {
+    width: 500px;
+}
+.d4 {
+    margin-left: 500px;
+    width: 1000px;
+}
+
+.d1 {
+    width: 500px;
+}
+.d2 {
+    margin-left: 500px;
+}
+
+.d3 {
+    width: 500px;
+}
+.d4 {
+    margin-left: 500px;
+    width: 1000px;
+}
+
+.e1 {
+    width: 350px;
+}
+.e2 {
+    margin-left: 350px;
+    width: 2000px;
+}
+
+.e3 {
+    width: 669px;
+}
+.e4 {
+    margin-left: 669px;
+    width: 1000px;
+}
